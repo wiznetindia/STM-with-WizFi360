@@ -1,0 +1,32 @@
+Project: Project_Wiznet
+Converter: ST System Workbench for STM32 project converter
+Date: 20200423
+
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.floatabi.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.fpu.
+Option == null: com.atollic.truestudio.gpp.misc
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.floatabi.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.fpu.
+No map found for id: gnu.c.link.option.other
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.floatabi.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.fpu.
+No map found for id: gnu.cpp.link.option.flags
+No map found for id: gnu.cpp.link.option.other
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.floatabi.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.fpu.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.floatabi.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.fpu.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.floatabi.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.fpu.
+No map found for id: gnu.cpp.debugging.level.max
+No map found for id: gnu.cpp.compiler.option.preprocessor.def.symbols
+Option == null: com.atollic.truestudio.gpp.misc
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.floatabi.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.fpu.
+No map found for id: gnu.c.link.option.other
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.floatabi.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.fpu.
+No map found for id: gnu.cpp.link.option.other
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.floatabi.
+No map found for id: fr.ac6.managedbuild.option.gnu.cross.fpu.
+No map found for id: fr.ac6.managedbuild.tool.gnu.cross.assembler.exe.release
